@@ -38,7 +38,7 @@ Education
   .container {
     display: flex;
     align-items: center;
-    margin-top: 40px;
+    margin-top: 20px;
   }
 
   .text-container {
@@ -76,13 +76,15 @@ Education
   </div>
 </div>
 
+<br>
+
 Work Experience
 ======
 <style>
   .container {
     display: flex;
     align-items: center;
-    margin-top: 40px;
+    margin-top: 20px;
   }
 
   .text-container {
@@ -118,6 +120,8 @@ Work Experience
     <div class="role-line">Software Engineer Intern </div>
   </div>
 </div>
+
+<br>
 
 Visitors
 ======
