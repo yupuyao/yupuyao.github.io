@@ -34,7 +34,6 @@ In _preprint_, 2023.
 
 Education
 ======
-
 <html>
 <head>
   <style>
@@ -78,8 +77,8 @@ Education
     </div>
   </div>
 
-<h1>Work Experience</h1>
-
+Work Experience
+======
 <html>
 <head>
   <style>
@@ -122,6 +121,6 @@ Education
     </div>
   </div>
 
-<h2>Visitors</h2>
-
+Visitors
+======
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=u-yFr7LHhj0-cntxwiMkKbirFC-TDQOyWMWtPgba5Zc&cl=ffffff&w=a"></script>
