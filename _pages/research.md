@@ -5,14 +5,14 @@ permalink: /research/
 author_profile: true
 ---
 
-Machine Learning
+Efficient AI
 ---
-Machine learning embodies a remarkably elegant theory. My research interests primarily focus on unraveling the operating principles behind neural networks in deep learning. My most recent lines of inquiry involve **Information Geometry** and **Mean Field Theory**, both of which have been deeply inspiring to me.
+Efficient AI lies at the intersection of algorithm design, systems optimization, and theoretical understanding. My research interests focus on improving the efficiency of modern deep learning systems through principled operator design and optimization-aware modeling. In particular, I am interested in developing high-efficiency operators and inference frameworks that reduce computational and memory overhead while preserving model expressiveness and stability.
 
-Computer Vision
+Large Language Models
 ---
-Computer vision is currently profoundly influenced by advancements in deep learning. My work centers on exploring how to synergize deep learning and computer vision to efficiently and robustly accomplish tasks such as image fusion, image classification, and semantic segmentation.
+Large language models present new challenges that go beyond traditional deep learning settings, especially in long-context modeling and scalable attention mechanisms. My work explores how to redesign attention and sequence modeling architectures to better handle long-range dependencies, reduce quadratic complexity, and improve robustness under limited computational budgets. I am particularly interested in understanding the inductive biases and optimization dynamics underlying long-context attention in LLMs.
 
-Semantic Communication
+Generative AI
 ---
-Semantic communication is an emerging cross-generational communication technology. With the evolution of deep learning techniques, it has become a consensus to view the weights of neural networks as shared knowledge bases. This allows communication systems to leverage the advantages of neural networks to break through the Shannon limit. My work is focused on designing more efficient semantic communication systems and contributing to the refinement of the fundamental theoretical framework for semantic communication.
+Generative AI represents a paradigm shift from discriminative modeling to learning and synthesizing complex data distributions. My interests in this area focus on the generative modeling paradigm itself, including how representation, memory, and conditioning mechanisms shape generation quality and consistency. I am especially drawn to exploring new generative frameworks that emphasize efficiency, structural consistency, and principled modeling of long-term dependencies.
