@@ -21,14 +21,10 @@ Publications
 In _preprint_, 2025.
 <br>[[PDF]](https://arxiv.org/abs/2512.04963)
 
-<br>
-
 <span style="margin-right: 13px; font-size: 0.8em;">●</span>  <a href="https://yupuyao.github.io" style="color:black; font-weight:bold;">Y Yao</a>.  
 **Generalize Neural Network Through Smooth Hypothesis Function.**  
 In _The Second Tiny Papers Track at ICLR_, 2024.  
 [[PDF]](https://openreview.net/forum?id=RpiiKMGaK3)
-
-<br>
 
 <span style="margin-right: 13px; font-size: 0.8em;">●</span>  <a href="https://yupuyao.github.io" style="color:black; font-weight:bold;">Y Yao</a>
 , <a style="color:black; text-decoration:none;">S Deng</a>, <a style="color:black; text-decoration:none;">Z Cao</a>, <a href="https://harryzhangog.github.io" style="color:black;">H Zhang</a>, <a href="https://liangjiandeng.github.io" style="color:black;">LJ Deng</a>.
@@ -85,7 +81,6 @@ Education
 Work Experience
 ======
 
-
 <html>
 <head>
   <style>
@@ -121,7 +116,7 @@ Work Experience
 
 
   <div class="container" style="margin-top: 40px;">
-    <img src="../images/InfAI.png" alt="Image cannot load" width="150" height="150" style="margin-right: 20px;" />
+    <img src="../images/InfAI.png" alt="Image cannot load" width="300" height="150" style="margin-right: 20px;" />
     <div class="text-container">
       <div class="custom-font">Aug. 2025 - : Infinigence AI, Shanghai</div>
       <div class="space-between">Software Engineer Intern</div>
