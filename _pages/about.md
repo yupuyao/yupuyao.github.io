@@ -22,13 +22,13 @@ redirect_from:
   }
 
   .org-line {
-    font-size: 18px;
+    font-size: 22px;
     font-weight: 500;
   }
 
   .role-line {
     margin-top: 12px;
-    font-size: 24px;
+    font-size: 18px;
   }
 
   .logo {
@@ -72,8 +72,8 @@ Education
 
   <div class="text-container">
     <div class="org-line">Sept. 2022 – : UESTC*, Chengdu</div>
-    <div class="line">Undergraduate Student</div>
-    <div class="line">* University of Electronic Science and Technology of China</div>
+    <div class="role-line">Undergraduate Student</div>
+    <div class="role-line">* University of Electronic Science and Technology of China</div>
   </div>
 </div>
 
