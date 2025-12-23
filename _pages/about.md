@@ -70,7 +70,7 @@ Education
        class="school-logo" />
 
   <div class="text-container">
-    <div class="org-line">Sept. 2022 – Present · UESTC, Chengdu</div>
+    <div class="org-line">Sept. 2022 – : UESTC, Chengdu</div>
     <div class="line">Undergraduate Student</div>
     <div class="line">* University of Electronic Science and Technology of China</div>
   </div>
@@ -114,8 +114,8 @@ Work Experience
        class="company-logo" />
 
   <div class="text-container">
-    <div class="org-line">Aug. 2025 – Present · Infinigence AI, Shanghai</div>
-    <div class="role-line">Software Engineer Intern (Inference Framework Development)</div>
+    <div class="org-line">Aug. 2025 – : Infinigence AI, Shanghai</div>
+    <div class="role-line">Software Engineer Intern </div>
   </div>
 </div>
 
@@ -123,5 +123,5 @@ Visitors
 ======
 <html>
 <body>
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=u-yFr7LHhj0-cntxwiMkKbirFC-TDQOyWMWtPgba5Zc&cl=ffffff&w=300"></script>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=u-yFr7LHhj0-cntxwiMkKbirFC-TDQOyWMWtPgba5Zc&cl=ffffff&w=500"></script>
 </body>
