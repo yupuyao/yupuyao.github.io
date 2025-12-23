@@ -70,7 +70,7 @@ Education
        class="school-logo" />
 
   <div class="text-container">
-    <div class="org-line">Sept. 2022 – : UESTC, Chengdu</div>
+    <div class="org-line">Sept. 2022 – : UESTC*, Chengdu</div>
     <div class="line">Undergraduate Student</div>
     <div class="line">* University of Electronic Science and Technology of China</div>
   </div>
