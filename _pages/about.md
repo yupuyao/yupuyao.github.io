@@ -79,51 +79,50 @@ Education
 
 Work Experience
 ======
-<html>
-<head>
-  <style>
-    .container {
-      display: flex;
-      align-items: flex-start;
-    }
-    .text-container {
-      display: flex;
-      flex-direction: column;
-      justify-content: space-between;
-    }
-    img {
-      margin-right: 22px;
-    }
-    .custom-font {
-      font-size: 21px;
-      font-family: 'Georgia', serif;
-    }
-  </style>
-</head>
-<body>
+<style>
+  .container {
+    display: flex;
+    align-items: center;
+    margin-top: 40px;
+  }
 
-<html>
-<head>
-  <style>
-    .space-between {
-      margin-top: 20px;
-    }
-  </style>
-</head>
-<body>
+  .text-container {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Georgia', serif;
+  }
 
+  .org-line {
+    font-size: 24px;
+    font-weight: 500;
+  }
 
-  <div class="container" style="margin-top: 40px;">
-    <img src="../images/InfAI.png" alt="Image cannot load" width="236" height="150" style="margin-right: 20px;" />
-    <div class="text-container">
-      <div class="custom-font">Aug. 2025 - : Infinigence AI, Shanghai</div>
-      <div class="space-between">Software Engineer Intern</div>
-    </div>
+  .role-line {
+    margin-top: 12px;
+    font-size: 20px;
+  }
+
+  .company-logo {
+    width: 180px;
+    height: auto;
+    margin-right: 28px;
+  }
+</style>
+
+<div class="container">
+  <img src="../images/InfAI.png"
+       alt="Image cannot load"
+       class="company-logo" />
+
+  <div class="text-container">
+    <div class="org-line">Aug. 2025 – Present · Infinigence AI, Shanghai</div>
+    <div class="role-line">Software Engineer Intern (Inference Framework Development)</div>
   </div>
+</div>
 
 Visitors
 ======
 <html>
 <body>
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=u-yFr7LHhj0-cntxwiMkKbirFC-TDQOyWMWtPgba5Zc&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=u-yFr7LHhj0-cntxwiMkKbirFC-TDQOyWMWtPgba5Zc&cl=ffffff&w=300"></script>
 </body>
