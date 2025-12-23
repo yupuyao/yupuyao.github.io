@@ -34,48 +34,47 @@ In _preprint_, 2023.
 
 Education
 ======
-<html>
-<head>
-  <style>
-    .container {
-      display: flex;
-      align-items: flex-start;
-    }
-    .text-container {
-      display: flex;
-      flex-direction: column;
-      justify-content: space-between;
-    }
-    img {
-      margin-right: 22px;
-    }
-    .custom-font {
-      font-size: 21px;
-      font-family: 'Georgia', serif;
-    }
-  </style>
-</head>
-<body>
+<style>
+  .container {
+    display: flex;
+    align-items: center;
+    margin-top: 40px;
+  }
 
-<html>
-<head>
-  <style>
-    .space-between {
-      margin-top: 20px;
-    }
-  </style>
-</head>
-<body>
+  .text-container {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Georgia', serif;
+  }
 
+  .org-line {
+    font-size: 24px;
+    font-weight: 500;
+  }
 
-  <div class="container" style="margin-top: 40px;">
-    <img src="../images/UESTC.png" alt="Image cannot load" width="150" height="150" style="margin-right: 20px;" />
-    <div class="text-container">
-      <div class="custom-font">Sept. 2022 - : UESTC*, Chengdu</div>
-      <div class="space-between">Undergraduate student</div>
-      <div class="space-between">*：University of Electronic Science and Technology of China</div>
-    </div>
+  .line {
+    margin-top: 12px;
+    font-size: 20px;
+  }
+
+  .school-logo {
+    width: 150px;
+    height: auto;
+    margin-right: 26px;
+  }
+</style>
+
+<div class="container">
+  <img src="../images/UESTC.png"
+       alt="Image cannot load"
+       class="school-logo" />
+
+  <div class="text-container">
+    <div class="org-line">Sept. 2022 – Present · UESTC, Chengdu</div>
+    <div class="line">Undergraduate Student</div>
+    <div class="line">* University of Electronic Science and Technology of China</div>
   </div>
+</div>
 
 Work Experience
 ======
@@ -103,7 +102,7 @@ Work Experience
   }
 
   .company-logo {
-    width: 180px;
+    width: 150px;
     height: auto;
     margin-right: 28px;
   }
