@@ -7,6 +7,37 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+<style>
+  .container {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+  }
+
+  .text-container {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Georgia', serif;
+  }
+
+  .org-line {
+    font-size: 18px;
+    font-weight: 500;
+  }
+
+  .role-line {
+    margin-top: 12px;
+    font-size: 24px;
+  }
+
+  .logo {
+    width: 150px;
+    height: auto;
+    margin-right: 26px;
+  }
+</style>
+
 <br>**I am looking for a PhD position in 2026, and also open to seeking an online research assistant position at any time.** 
 
 Hi, I am Yupu Yao, a sophomore student in the University of Electronic Science and Technology of China (UESTC). Thank you for visiting my homepage.
@@ -34,40 +65,10 @@ In _preprint_, 2023.
 
 Education
 ======
-<style>
-  .container {
-    display: flex;
-    align-items: center;
-    margin-top: 20px;
-  }
-
-  .text-container {
-    display: flex;
-    flex-direction: column;
-    font-family: 'Georgia', serif;
-  }
-
-  .org-line {
-    font-size: 24px;
-    font-weight: 500;
-  }
-
-  .line {
-    margin-top: 12px;
-    font-size: 20px;
-  }
-
-  .school-logo {
-    width: 150px;
-    height: auto;
-    margin-right: 26px;
-  }
-</style>
-
 <div class="container">
   <img src="../images/UESTC.png"
        alt="Image cannot load"
-       class="school-logo" />
+       class="logo" />
 
   <div class="text-container">
     <div class="org-line">Sept. 2022 – : UESTC*, Chengdu</div>
@@ -80,40 +81,10 @@ Education
 
 Work Experience
 ======
-<style>
-  .container {
-    display: flex;
-    align-items: center;
-    margin-top: 20px;
-  }
-
-  .text-container {
-    display: flex;
-    flex-direction: column;
-    font-family: 'Georgia', serif;
-  }
-
-  .org-line {
-    font-size: 24px;
-    font-weight: 500;
-  }
-
-  .role-line {
-    margin-top: 12px;
-    font-size: 20px;
-  }
-
-  .company-logo {
-    width: 150px;
-    height: auto;
-    margin-right: 28px;
-  }
-</style>
-
 <div class="container">
   <img src="../images/InfAI.png"
        alt="Image cannot load"
-       class="company-logo" />
+       class="logo" />
 
   <div class="text-container">
     <div class="org-line">Aug. 2025 – : Infinigence AI, Shanghai</div>
