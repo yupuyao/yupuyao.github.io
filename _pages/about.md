@@ -40,7 +40,7 @@ redirect_from:
 
 <br>**I am looking for a PhD position in 2026, and also open to seeking an online research assistant position at any time.** 
 
-Hi, I am Yupu Yao, a sophomore student in the University of Electronic Science and Technology of China (UESTC). Thank you for visiting my homepage.
+Hi, I am Yupu Yao, a final-year undergraduate student in the University of Electronic Science and Technology of China (UESTC). Thank you for visiting my homepage.
 
 My research interest is machine learning.
 
