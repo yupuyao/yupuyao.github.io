@@ -77,8 +77,6 @@ Education
   </div>
 </div>
 
-<br>
-
 Work Experience
 ======
 <div class="container">
@@ -92,8 +90,6 @@ Work Experience
     <div class="role-line">Developed inference framework.</div>
   </div>
 </div>
-
-<br>
 
 <html>
 <body>
