@@ -115,7 +115,7 @@ Education
 
 
   <div class="container" style="margin-top: 40px;">
-    <img src="../images/InfAI.png" alt="Image cannot load" width="300" height="150" style="margin-right: 20px;" />
+    <img src="../images/InfAI.png" alt="Image cannot load" width="236" height="150" style="margin-right: 20px;" />
     <div class="text-container">
       <div class="custom-font">Aug. 2025 - : Infinigence AI, Shanghai</div>
       <div class="space-between">Software Engineer Intern</div>
