@@ -89,6 +89,7 @@ Work Experience
   <div class="text-container">
     <div class="org-line">Aug. 2025 – : Infinigence AI, Shanghai</div>
     <div class="role-line">Software Engineer Intern </div>
+    <div class="role-line">Developed inference framework.</div>
   </div>
 </div>
 
