@@ -78,7 +78,6 @@ Education
 </div>
 
 <br>
-
 Work Experience
 ======
 <div class="container">
