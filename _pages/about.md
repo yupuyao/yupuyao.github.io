@@ -87,9 +87,10 @@ Work Experience
        class="logo" />
 
   <div class="text-container">
-    <div class="org-line">Aug. 2025 – : Infinigence AI, Shanghai</div>
+    <div class="org-line">Aug. 2025 – Mar. 2026: Infinigence AI, Shanghai</div>
     <div class="role-line">Software Engineer Intern </div>
     <div class="role-line">Developed inference framework.</div>
+    <div class="role-line">Outstanding Contribution Award</div>
   </div>
 </div>
 
