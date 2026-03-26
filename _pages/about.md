@@ -71,7 +71,7 @@ Education
        class="logo" />
 
   <div class="text-container">
-    <div class="org-line">Sept. 2022 – : UESTC*, Chengdu, China</div>
+    <div class="org-line">Sept. 2022 – : UESTC*, Chengdu</div>
     <div class="role-line">Undergraduate Student</div>
     <div class="role-line">* University of Electronic Science and Technology of China</div>
   </div>
@@ -83,7 +83,7 @@ Education
        class="logo" />
 
   <div class="text-container">
-    <div class="org-line">Sept. 2022 – : University of Glasgow, Glasgow, United Kingdom</div>
+    <div class="org-line">Sept. 2022 – : University of Glasgow, Glasgow</div>
     <div class="role-line">Undergraduate Student</div>
   </div>
 </div>
@@ -98,7 +98,7 @@ Work Experience
        class="logo" />
 
   <div class="text-container">
-    <div class="org-line">Aug. 2025 – Mar. 2026: Infinigence AI, Shanghai, China</div>
+    <div class="org-line">Aug. 2025 – Mar. 2026: Infinigence AI, Shanghai</div>
     <div class="role-line">Software Engineer Intern </div>
     <div class="role-line">Developed inference framework</div>
     <div class="role-line"><b>Outstanding Contribution Award</b></div>
