@@ -1,0 +1,26 @@
+education:
+  - logo: UESTC.png
+    logo_alt: UESTC logo
+    period: Sept. 2022 - Present
+    organization: UESTC
+    location: Chengdu
+    role: Undergraduate Student
+    notes:
+      - University of Electronic Science and Technology of China
+  - logo: UoG.png
+    logo_alt: University of Glasgow logo
+    period: Sept. 2022 - Present
+    organization: University of Glasgow
+    location: Glasgow
+    role: Undergraduate Student
+
+work_experience:
+  - logo: InfAI.png
+    logo_alt: Infinigence AI logo
+    period: Aug. 2025 - Mar. 2026
+    organization: Infinigence AI
+    location: Shanghai
+    role: Software Engineer Intern
+    notes:
+      - Developed inference framework
+      - <strong>Outstanding Contribution Award</strong>

@@ -1,0 +1,27 @@
+<div class="profile-entries">
+  {% for item in include.entries %}
+    <div class="profile-entry">
+      {% if item.logo %}
+        <img
+          src="{{ item.logo | prepend: '/assets/img/' | relative_url }}"
+          alt="{{ item.logo_alt | default: item.organization }}"
+          class="profile-entry-logo"
+        >
+      {% endif %}
+      <div class="profile-entry-content">
+        <div class="profile-entry-title">
+          {{ item.period }}: {{ item.organization -}}
+          {%- if item.location %}, {{ item.location }}{% endif %}
+        </div>
+        {% if item.role %}
+          <div class="profile-entry-role">{{ item.role }}</div>
+        {% endif %}
+        {% if item.notes %}
+          {% for note in item.notes %}
+            <div class="profile-entry-note">{{ note }}</div>
+          {% endfor %}
+        {% endif %}
+      </div>
+    </div>
+  {% endfor %}
+</div>

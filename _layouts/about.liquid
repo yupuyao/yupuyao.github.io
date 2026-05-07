@@ -40,6 +40,22 @@ layout: default
 
     <div class="clearfix">{{ content }}</div>
 
+    <!-- Education -->
+    {% if page.education and site.data.profile.education %}
+      <h2>
+        <a href="#education" id="education" style="color: inherit">education</a>
+      </h2>
+      {% include profile_entries.liquid entries=site.data.profile.education %}
+    {% endif %}
+
+    <!-- Work experience -->
+    {% if page.work_experience and site.data.profile.work_experience %}
+      <h2>
+        <a href="#work-experience" id="work-experience" style="color: inherit">work experience</a>
+      </h2>
+      {% include profile_entries.liquid entries=site.data.profile.work_experience %}
+    {% endif %}
+
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
       <h2>
