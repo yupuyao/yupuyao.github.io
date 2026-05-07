@@ -16,7 +16,8 @@
             {% else %}
               {% assign organization = item.organization %}
             {% endif %}
-            <strong>{{ organization }}</strong>, {{ item.role }}, {{ item.period }}
+            <strong>{{ organization }}</strong>, <span class="profile-entry-role-inline">{{ item.role }}</span>,
+            <span class="profile-entry-role-inline">{{ item.period }}</span>
           </div>
         {% else %}
           <div class="profile-entry-title">
@@ -27,16 +28,16 @@
             {% endif %}
             <strong>{{ item.role }}</strong>, <span>{{ organization -}}</span>
             {%- if item.location -%}
-              , <span>{{ item.location }}</span>
+              , <span class="profile-entry-role-inline">{{ item.location }}</span>
             {%- endif %}
           </div>
           {% if item.period %}
-            <div class="profile-entry-role">{{ item.period }}</div>
+            <div class="profile-entry-note">{{ item.period }}</div>
           {% endif %}
         {% endif %}
         {% if item.notes %}
           {% for note in item.notes %}
-            <div class="profile-entry-note">{{ note }}</div>
+            <div class="{% if forloop.first %}profile-entry-role{% else %}profile-entry-note{% endif %}">{{ note }}</div>
           {% endfor %}
         {% endif %}
       </div>
