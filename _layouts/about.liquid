@@ -80,6 +80,14 @@ layout: default
       {% include selected_papers.liquid %}
     {% endif %}
 
+    <!-- Service -->
+    {% if page.service and site.data.profile.service %}
+      <h2>
+        <a href="#service" id="service" style="color: inherit">Service</a>
+      </h2>
+      {% include service_entries.liquid entries=site.data.profile.service %}
+    {% endif %}
+
     <!-- Social -->
     {% if page.social %}
       <div class="social">

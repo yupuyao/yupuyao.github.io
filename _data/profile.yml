@@ -21,3 +21,7 @@ work_experience:
     notes:
       - Developed inference framework
       - <strong>Outstanding Contribution Award</strong>
+
+service:
+  - role: Conference Reviewer
+    venue: NeurIPS 2026

@@ -14,6 +14,7 @@ profile:
 selected_papers: true # includes a list of papers marked as "selected={true}"
 education: true # includes the education entries from _data/profile.yml
 work_experience: true # includes the work experience entries from _data/profile.yml
+service: true # includes the service entries from _data/profile.yml
 social: true # includes social icons at the bottom of the page
 visitor_map: true # includes the visitor map at the bottom of the about page
 

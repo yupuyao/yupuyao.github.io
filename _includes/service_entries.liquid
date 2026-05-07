@@ -1,0 +1,11 @@
+<div class="profile-entries">
+  {% for item in include.entries %}
+    <div class="profile-entry service-entry">
+      <div class="profile-entry-content">
+        <div class="profile-entry-title">
+          <strong>{{ item.role }}</strong>: <span>{{ item.venue }}</span>
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+</div>
