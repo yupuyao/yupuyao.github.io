@@ -36,4 +36,4 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-Yupu Yao is a final-year undergraduate student jointly affiliated with the [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) and the [University of Glasgow](https://www.gla.ac.uk/). His research interests include foundation models, representation learning, and efficient machine learning.
+**Yupu Yao** is a final-year undergraduate student jointly affiliated with the [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) and the [University of Glasgow](https://www.gla.ac.uk/). His research interests include foundation models, representation learning, and efficient machine learning.
