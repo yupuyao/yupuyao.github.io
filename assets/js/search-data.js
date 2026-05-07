@@ -384,8 +384,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-the-website-has-a-completely-new-look",
-          title: 'The website has a completely new look!',
+            },},{id: "news-tada-tada-tada-the-website-has-a-completely-new-look-clap",
+          title: ':tada: :tada: :tada: The website has a completely new look! :clap:',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
