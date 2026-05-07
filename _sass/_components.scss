@@ -110,7 +110,15 @@ ul.task-list input[type="checkbox"] {
   }
 
   .profile-entry-title {
-    font-weight: 600;
+    font-weight: 400;
+
+    strong {
+      font-weight: 600;
+    }
+
+    span {
+      font-weight: 400;
+    }
   }
 
   .profile-entry-role {
@@ -290,6 +298,13 @@ ul.task-list input[type="checkbox"] {
   .wechat-modal > img {
     width: 100%;
   }
+}
+
+// Visitor map
+
+.visitor-map {
+  margin-top: 1rem;
+  text-align: center;
 }
 
 // Distill

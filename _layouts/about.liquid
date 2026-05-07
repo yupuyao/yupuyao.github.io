@@ -40,6 +40,14 @@ layout: default
 
     <div class="clearfix">{{ content }}</div>
 
+    <!-- News -->
+    {% if page.announcements and page.announcements.enabled %}
+      <h2>
+        <a href="{{ '/news/' | relative_url }}" style="color: inherit">News</a>
+      </h2>
+      {% include news.liquid limit=true %}
+    {% endif %}
+
     <!-- Education -->
     {% if page.education and site.data.profile.education %}
       <h2>
@@ -51,17 +59,9 @@ layout: default
     <!-- Work Experience -->
     {% if page.work_experience and site.data.profile.work_experience %}
       <h2>
-        <a href="#work-experience" id="work-experience" style="color: inherit">Work experience</a>
+        <a href="#work-experience" id="work-experience" style="color: inherit">Work Experience</a>
       </h2>
       {% include profile_entries.liquid entries=site.data.profile.work_experience %}
-    {% endif %}
-
-    <!-- News -->
-    {% if page.announcements and page.announcements.enabled %}
-      <h2>
-        <a href="{{ '/news/' | relative_url }}" style="color: inherit">News</a>
-      </h2>
-      {% include news.liquid limit=true %}
     {% endif %}
 
     <!-- Latest posts -->
@@ -75,7 +75,7 @@ layout: default
     <!-- Selected Papers -->
     {% if page.selected_papers %}
       <h2>
-        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Selected publications</a>
+        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Selected Publications</a>
       </h2>
       {% include selected_papers.liquid %}
     {% endif %}
@@ -87,6 +87,11 @@ layout: default
 
         <div class="contact-note">{{ site.contact_note }}</div>
       </div>
+    {% endif %}
+
+    <!-- Visitor Map -->
+    {% if page.visitor_map %}
+      {% include visitor_map.liquid %}
     {% endif %}
 
     {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}

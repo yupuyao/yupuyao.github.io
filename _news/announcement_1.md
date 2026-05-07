@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The website has a completely new look!
+:tada: :tada: :tada: The website has a completely new look! :clap:
