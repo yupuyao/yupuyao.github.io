@@ -9,12 +9,28 @@
         >
       {% endif %}
       <div class="profile-entry-content">
-        <div class="profile-entry-title">
-          {{ item.period }}: {{ item.organization -}}
-          {%- if item.location %}, {{ item.location }}{% endif %}
-        </div>
-        {% if item.role %}
-          <div class="profile-entry-role">{{ item.role }}</div>
+        {% if include.compact %}
+          <div class="profile-entry-title">
+            {% if item.organization_url %}
+              {% capture organization %}<a href="{{ item.organization_url }}">{{ item.organization }}</a>{% endcapture %}
+            {% else %}
+              {% assign organization = item.organization %}
+            {% endif %}
+            <strong>{{ organization }}</strong>, {{ item.role }}, {{ item.period }}
+          </div>
+        {% else %}
+          <div class="profile-entry-title">
+            {% if item.organization_url %}
+              {% capture organization %}<a href="{{ item.organization_url }}">{{ item.organization }}</a>{% endcapture %}
+            {% else %}
+              {% assign organization = item.organization %}
+            {% endif %}
+            <strong>{{ item.role }}</strong>, {{ organization -}}
+            {%- if item.location %}, {{ item.location }}{% endif %}
+          </div>
+          {% if item.period %}
+            <div class="profile-entry-role">{{ item.period }}</div>
+          {% endif %}
         {% endif %}
         {% if item.notes %}
           {% for note in item.notes %}

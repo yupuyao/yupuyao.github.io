@@ -43,15 +43,15 @@ layout: default
     <!-- Education -->
     {% if page.education and site.data.profile.education %}
       <h2>
-        <a href="#education" id="education" style="color: inherit">education</a>
+        <a href="#education" id="education" style="color: inherit">Education</a>
       </h2>
-      {% include profile_entries.liquid entries=site.data.profile.education %}
+      {% include profile_entries.liquid entries=site.data.profile.education compact=true %}
     {% endif %}
 
-    <!-- Work experience -->
+    <!-- Work Experience -->
     {% if page.work_experience and site.data.profile.work_experience %}
       <h2>
-        <a href="#work-experience" id="work-experience" style="color: inherit">work experience</a>
+        <a href="#work-experience" id="work-experience" style="color: inherit">Work experience</a>
       </h2>
       {% include profile_entries.liquid entries=site.data.profile.work_experience %}
     {% endif %}
@@ -59,7 +59,7 @@ layout: default
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
       <h2>
-        <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
+        <a href="{{ '/news/' | relative_url }}" style="color: inherit">News</a>
       </h2>
       {% include news.liquid limit=true %}
     {% endif %}
@@ -72,10 +72,10 @@ layout: default
       {% include latest_posts.liquid %}
     {% endif %}
 
-    <!-- Selected papers -->
+    <!-- Selected Papers -->
     {% if page.selected_papers %}
       <h2>
-        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected publications</a>
+        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Selected publications</a>
       </h2>
       {% include selected_papers.liquid %}
     {% endif %}

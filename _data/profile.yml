@@ -2,16 +2,14 @@ education:
   - logo: UESTC.png
     logo_alt: UESTC logo
     period: Sept. 2022 - Present
-    organization: UESTC
-    location: Chengdu
+    organization: University of Electronic Science and Technology of China
+    organization_url: https://en.uestc.edu.cn/
     role: Undergraduate Student
-    notes:
-      - University of Electronic Science and Technology of China
   - logo: UoG.png
     logo_alt: University of Glasgow logo
     period: Sept. 2022 - Present
     organization: University of Glasgow
-    location: Glasgow
+    organization_url: https://www.gla.ac.uk/
     role: Undergraduate Student
 
 work_experience:
@@ -19,8 +17,9 @@ work_experience:
     logo_alt: Infinigence AI logo
     period: Aug. 2025 - Mar. 2026
     organization: Infinigence AI
+    organization_url: https://www.infini-ai.com/
     location: Shanghai
-    role: Software Engineer Intern
+    role: Developer Intern
     notes:
       - Developed inference framework
       - <strong>Outstanding Contribution Award</strong>
