@@ -38,11 +38,7 @@ redirect_from:
   }
 </style>
 
-<br>**I am looking for a PhD position in 2026, and also open to seeking an online research assistant position at any time.** 
-
-Hi, I am Yupu Yao, a final-year undergraduate student in the University of Electronic Science and Technology of China and University of Glasgow. Thank you for visiting my homepage.
-
-My research interest is machine learning.
+Yupu Yao is a final-year undergraduate student jointly affiliated with the University of Electronic Science and Technology of China and the University of Glasgow. His research interests include foundation models, representation learning, and efficient machine learning.
 
 Publications
 ======
