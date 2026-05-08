@@ -6,8 +6,6 @@ nav: true
 nav_order: 5
 ---
 
-[Download PDF](/assets/pdf/Yupu_CV.pdf)
-
 <iframe
   src="/assets/pdf/Yupu_CV.pdf"
   width="100%"
