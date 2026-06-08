@@ -1,9 +1,9 @@
 education:
   - logo: PennState.png
-  - logo_alt: Penn State logo
-  - period: Aug. 2026 - Present
-  - organization: The Pennsylvania State University
-  - role: Ph.D.
+    logo_alt: Penn State logo
+    period: Aug. 2026 - Present
+    organization: The Pennsylvania State University
+    role: Ph.D.
   - logo: UESTC.png
     logo_alt: UESTC logo
     period: Sept. 2022 - June. 2026
