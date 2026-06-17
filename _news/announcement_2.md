@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:tada: :tada: :tada: Graduation from UESTC and UofG! :clap:
+:tada: :tada: :tada: Received my B.Eng. degree! :clap:
