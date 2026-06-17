@@ -2,17 +2,12 @@ education:
   - logo: PennState.png
     logo_alt: Penn State logo
     period: Aug. 2026 - Present
-    organization: The Pennsylvania State University
+    organization: Pennsylvania State University
     role: Ph.D.
   - logo: UESTC.png
     logo_alt: UESTC logo
     period: Sept. 2022 - June. 2026
     organization: University of Electronic Science and Technology of China
-    role: B.Eng.
-  - logo: UoG.png
-    logo_alt: University of Glasgow logo
-    period: Sept. 2022 - June. 2026
-    organization: University of Glasgow
     role: B.Eng.
 
 work_experience:
