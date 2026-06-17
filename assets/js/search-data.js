@@ -38,7 +38,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.open("https://example.com/meditations-on-diffusion", "_blank");
+            window.open("https://yupuyao.github.io/ai-meditations/meditations-on-diffusion/", "_blank");
           
         },
       },{id: "books-the-godfather",
@@ -112,7 +112,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%79%70%73%65%65%6B%31%32%33@%67%6D%61%69%6C.%63%6F%6D", "_blank");
+          window.open("mailto:%79%75%70%75.%79%61%6F@%70%73%75.%65%64%75", "_blank");
         },
       },{
         id: 'social-github',
