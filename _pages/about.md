@@ -39,4 +39,4 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 **Yupu Yao** is an incoming Ph.D. student in Computer Science and Engineering at [Pennsylvania State University](https://www.psu.edu/), advised by Dr. [Lu Cheng](https://lcheng.org/).
 He received his B.Eng. from the [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/).
 
-His research interests include foundation models, representation learning, and efficient machine learning.
+<!-- His research interests include foundation models, representation learning, and efficient machine learning. -->
