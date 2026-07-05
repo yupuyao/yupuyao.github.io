@@ -10,17 +10,17 @@ education:
     organization: University of Electronic Science and Technology of China
     role: B.Eng.
 
-work_experience:
-  - logo: InfAI.png
-    logo_alt: Infinigence AI logo
-    period: Aug. 2025 - Mar. 2026
-    organization: Infinigence AI
-    organization_url: https://www.infini-ai.com/
-    location: Shanghai
-    role: Developer Intern
-    notes:
-      - Developed inference framework
-      - <strong>Outstanding Contribution Award</strong>
+# work_experience:
+#   - logo: InfAI.png
+#     logo_alt: Infinigence AI logo
+#     period: Aug. 2025 - Mar. 2026
+#     organization: Infinigence AI
+#     organization_url: https://www.infini-ai.com/
+#     location: Shanghai
+#     role: Developer Intern
+#     notes:
+#       - Developed inference framework
+#       - <strong>Outstanding Contribution Award</strong>
 
 service:
   - role: Conference Reviewer
