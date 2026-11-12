@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About
-heading: Bio
+heading: Yupu Yao
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
@@ -36,9 +36,9 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I am Yupu Yao, and I received my B.Eng. from the [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/).
+Hi, I am Yupu Yao, and I received my B.Eng. from the [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/).
 
-My research focuses on understanding how neural networks can move beyond fitting statistical patterns to discovering the underlying mechanisms that generate observations. I am particularly interested in representation learning and how learned mechanisms can support reasoning and generalization in foundation models.
+My research aims to understand how neural networks can discover the generative mechanisms underlying observed data, rather than relying solely on statistical correlations. I am particularly interested in representation learning and how models can acquire and utilize reusable knowledge to support reasoning, planning, and generalization.
 
 **I am actively seeking PhD opportunities for Fall 2027. I was previously admitted to CSE PhD program from Penn State for 2026 Fall, but was unable to enroll due to visa difficulties. Please feel free to reach out if you see a potential research fit!**
 
