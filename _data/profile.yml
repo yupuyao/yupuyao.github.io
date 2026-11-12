@@ -10,7 +10,10 @@ work_experience:
     logo_alt: Penn State logo
     period: June. 2026 - Present
     organization: Pennsylvania State University
+    organization_url: https://www.psu.edu/
     role: Research Assistant
+    notes: 
+      - Advised by Dr. [Lu Cheng](https://lcheng.org/)
   - logo: InfAI.png
     logo_alt: Infinigence AI logo
     period: Aug. 2025 - Mar. 2026
