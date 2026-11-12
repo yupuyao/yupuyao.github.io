@@ -1,27 +1,29 @@
 education:
-  - logo: PennState.png
-    logo_alt: Penn State logo
-    period: Aug. 2026 - Present
-    organization: Pennsylvania State University
-    role: Ph.D.
   - logo: UESTC.png
     logo_alt: UESTC logo
     period: Sept. 2022 - June. 2026
     organization: University of Electronic Science and Technology of China
     role: B.Eng.
 
-# work_experience:
-#   - logo: InfAI.png
-#     logo_alt: Infinigence AI logo
-#     period: Aug. 2025 - Mar. 2026
-#     organization: Infinigence AI
-#     organization_url: https://www.infini-ai.com/
-#     location: Shanghai
-#     role: Developer Intern
-#     notes:
-#       - Developed inference framework
-#       - <strong>Outstanding Contribution Award</strong>
+work_experience:
+  - logo: PennState.png
+    logo_alt: Penn State logo
+    period: June. 2026 - Present
+    organization: Pennsylvania State University
+    role: Research Assistant
+  - logo: InfAI.png
+    logo_alt: Infinigence AI logo
+    period: Aug. 2025 - Mar. 2026
+    organization: Infinigence AI
+    organization_url: https://www.infini-ai.com/
+    location: Shanghai
+    role: Developer Intern
+    notes:
+      - Developed inference framework
+      - <strong>Outstanding Contribution Award</strong>
 
 service:
   - role: Conference Reviewer
-    venue: NeurIPS 2026
+    venue: ICLR 2027; WACV 2027 Workshop on WAM-AD; AAAI 2027 workshop on SAFE
+  - role: Journal Reviewer
+    venue: IEEE Internet of Things Journal

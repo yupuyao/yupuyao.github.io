@@ -36,7 +36,10 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-**Yupu Yao** is an incoming Ph.D. student in Computer Science and Engineering at [Pennsylvania State University](https://www.psu.edu/), advised by Dr. [Lu Cheng](https://lcheng.org/).
-He received his B.Eng. from the [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/).
+I am Yupu Yao, and I received my B.Eng. from the [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/).
+
+My research focuses on understanding how neural networks can move beyond fitting statistical patterns to discovering the underlying mechanisms that generate observations. I am particularly interested in representation learning, structured knowledge, and how learned mechanisms can support reasoning and generalization in foundation models.
+
+**I am actively seeking PhD opportunities for Fall 2027. I was previously admitted to CSE PhD program from Penn State for 2026 Fall, but was unable to enroll due to visa difficulties. Please feel free to reach out if you see a potential research fit!**
 
 <!-- His research interests include foundation models, representation learning, and efficient machine learning. -->
