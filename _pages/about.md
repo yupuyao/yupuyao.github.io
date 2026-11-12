@@ -38,7 +38,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 Hi, I am Yupu Yao, and I received my B.Eng. from the [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/).
 
-My research aims to understand how neural networks can discover the generative mechanisms underlying observed data, rather than relying solely on statistical correlations. I am particularly interested in representation learning and how models can acquire and utilize reusable knowledge to support reasoning, planning, and generalization.
+My research aims to understand how neural networks can discover the generative mechanisms underlying observed data, rather than relying solely on statistical correlations. I am particularly interested in representation learning and how models can acquire and utilize reusable knowledge to support and generalize foundation model.
 
 **I am actively seeking PhD opportunities for Fall 2027. I was previously admitted to CSE PhD program from Penn State for 2026 Fall, but was unable to enroll due to visa difficulties. Please feel free to reach out if you see a potential research fit!**
 
