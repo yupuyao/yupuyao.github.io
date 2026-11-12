@@ -38,7 +38,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 I am Yupu Yao, and I received my B.Eng. from the [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/).
 
-My research focuses on understanding how neural networks can move beyond fitting statistical patterns to discovering the underlying mechanisms that generate observations. I am particularly interested in representation learning, structured knowledge, and how learned mechanisms can support reasoning and generalization in foundation models.
+My research focuses on understanding how neural networks can move beyond fitting statistical patterns to discovering the underlying mechanisms that generate observations. I am particularly interested in representation learning and how learned mechanisms can support reasoning and generalization in foundation models.
 
 **I am actively seeking PhD opportunities for Fall 2027. I was previously admitted to CSE PhD program from Penn State for 2026 Fall, but was unable to enroll due to visa difficulties. Please feel free to reach out if you see a potential research fit!**
 
