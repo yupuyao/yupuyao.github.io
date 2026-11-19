@@ -40,6 +40,6 @@ Hi, I am Yupu Yao, and I received my B.Eng. from the [University of Electronic S
 
 My research aims to understand how neural networks can discover the generative mechanisms underlying observed data, rather than relying solely on statistical correlations. I am particularly interested in representation learning and how models can acquire and utilize reusable knowledge to support and generalize foundation model.
 
-**I am actively seeking PhD opportunities for Fall 2027. I was previously admitted to CSE PhD program from Penn State for 2026 Fall, but was unable to enroll due to visa difficulties. Please feel free to reach out if you see a potential research fit!**
+**I am actively seeking PhD opportunities for Fall 2027 (outside the U.S.). I was previously admitted to CSE PhD program from Penn State for 2026 Fall, but was unable to enroll due to visa difficulties. Please feel free to reach out if you see a potential research fit!**
 
 <!-- His research interests include foundation models, representation learning, and efficient machine learning. -->
